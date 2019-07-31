@@ -1,4 +1,4 @@
-# Interaction force estimation based on deep neural network
+# Interaction force estimation based on deep learning
 We constructed a model for learning and generating a db composed of sequential images for interaction force estimation.
 ## Architecture
 We will release the network architecture soon.
