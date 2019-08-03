@@ -3,5 +3,5 @@ We constructed a model for learning and generating a db composed of sequential i
 ## Architecture
 We will release the network architecture soon.
 ## Dataset
-Our dataset is big. So we share it using Google Drive.
-Link: https://drive.google.com/drive/folders/1Ro6a5j39_DKu2VGd0e-J2C3HGEUFh9tr
+We share the dataset using Google Drive.
+Link: https://drive.google.com/open?id=1UDbevCQYvkh5kK7QfrF1NQiu4z-MJJbE
