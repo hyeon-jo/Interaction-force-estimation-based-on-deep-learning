@@ -12,19 +12,14 @@ The detail description on the database is as follows;
 (2) The directory name is "[object]_[degree]_[illumination]"
 
       There are four objects, e.g., paper cup, sponge, stapler, and tube
-      
       There are four degrees, e.g., 0, 10, 20, and 30 degrees
-      
       There are three illuminations, e.g., 50 (350lux), 70 (550lux), 100(750lux)
       
 (3) At each directory, there is "test.txt" file for GT. 
 
      e.g., 4,-0.00318538,0.00328883
-     
              The image file name: 4.jpg
-             
              The interaction force: -0.00318538
-             
               Dummy: 0.00328883
 
 Link: https://drive.google.com/open?id=1UDbevCQYvkh5kK7QfrF1NQiu4z-MJJbE
